@@ -1,24 +1,30 @@
 <p align="center">
-  <img src="assets/survey-sentinel-logo.png"
-       alt="Survey Sentinel"
-       width="320">
+  <img src="profile/assets/survey-sentinel-logo.png" width="350">
 </p>
 
-# Survey Sentinel
+<h1 align="center">Survey Sentinel</h1>
 
-**Measure. Model. Manage.**
+<p align="center">
+Intelligent Photogrammetry • Adaptive Mission Planning • AI-Assisted Surveying
+</p>
 
-Survey Sentinel is developing intelligent photogrammetry, adaptive mission planning and AI-assisted surveying tools for professional drone operators.
+Survey Sentinel is developing the next generation of intelligent drone surveying software, combining onboard edge computing, adaptive mission planning and real-time survey quality analysis to help professionals capture better data in fewer flights.
 
 ## Our focus
 
-- Live survey coverage analysis
-- Missing-surface detection
-- Adaptive infill mission planning
-- Photogrammetry quality assurance
-- DJI Manifold 3 edge computing
-- RTK-enabled surveying workflows
-- Building, roof and infrastructure inspection
+## Core Technologies
+
+🛰 DJI Enterprise Platform
+
+📷 Intelligent Photogrammetry
+
+🏗 Digital Twins
+
+🧠 Edge AI
+
+📡 RTK Surveying
+
+☁ WebODM Integration
 
 ## Current development platform
 
@@ -28,8 +34,26 @@ Survey Sentinel is developing intelligent photogrammetry, adaptive mission plann
 - DJI Obstacle Sensing Module
 - WebODM and open photogrammetry workflows
 
-## Status
+## Roadmap
 
-Survey Sentinel is currently in early research and development.
+- [x] Brand identity
+- [x] GitHub organisation
+- [x] Domain registration
+- [ ] Desktop prototype
+- [ ] Coverage analysis engine
+- [ ] Manifold 3 integration
+- [ ] Adaptive mission planning
+- [ ] Public beta
+
+## Built With
+
+- C++23
+- OpenCV
+- Open3D
+- Eigen
+- SQLite
+- DJI Payload SDK
+- TensorRT
+- ONNX Runtime
 
 Website: https://surveysentinel.co.uk
