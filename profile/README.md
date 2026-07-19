@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/assets/survey-sentinel-logo.png" width="350">
+   <img src="assets/survey-sentinel-logo.png" width="350" alt="Survey Sentinel Logo">
 </p>
 
 <h1 align="center">Survey Sentinel</h1>
