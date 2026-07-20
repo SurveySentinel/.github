@@ -31,9 +31,15 @@ Rather than replacing existing photogrammetry software, SurveySentinel enhances 
 
 Our goal is to produce more complete, more accurate and more reliable survey datasets while reducing pilot workload and repeat site visits.
 
-The platform combines artificial intelligence, computer vision and DJI Enterprise integration to provide survey professionals with tools that go significantly beyond conventional waypoint missions.
+SurveySentinel combines intelligent software with DJI Enterprise platforms to help survey professionals capture higher-quality aerial datasets with greater confidence and efficiency.
 
 ---
+
+## Explore SurveySentinel
+
+- 📖 **Documentation** – Product guides and reference material
+- 🧪 **Examples** – Sample datasets and demonstration workflows
+- ⚖️ **Legal** – Licensing, governance and intellectual property
 
 # Why SurveySentinel
 
@@ -109,7 +115,7 @@ SurveySentinel is intended for:
 
 ---
 
-# Project Architecture
+# Platform Overview
 
 ```text
 DJI Enterprise Aircraft
@@ -166,13 +172,11 @@ SurveySentinel is being developed around several core principles:
 
 # Documentation
 
-The project includes professional documentation covering:
+Public product documentation is maintained within the **SurveySentinel-Documentation** repository.
 
-Product documentation is maintained within the SurveySentinel-Documentation repository.
+Licensing, governance and legal information is maintained within **SurveySentinel-Legal**.
 
-Legal and licensing information is maintained within SurveySentinel-Legal.
-
-Additional technical documentation will be published as development progresses.
+Additional documentation will be published as SurveySentinel development progresses.
 
 ---
 
@@ -222,8 +226,5 @@ Commercial licensing information will be published prior to the first public rel
 ### Intelligent aerial surveying for the next generation of digital infrastructure.
 
 **Copyright © 2026 SurveySentinel. All Rights Reserved.**
-
-</div>
-
 
 </div>
