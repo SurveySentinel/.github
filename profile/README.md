@@ -12,7 +12,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Active%20Development-2ea44f)]()
 [![Platform](https://img.shields.io/badge/Platform-DJI%20Enterprise-blue)]()
-[![Architecture](https://img.shields.io/badge/Architecture-Modular-orange)]()
+[![Documentation](https://img.shields.io/badge/Documentation-Commercial-orange)]()
 [![License](https://img.shields.io/badge/License-Proprietary-red)]()
 
 ---
@@ -27,7 +27,7 @@
 
 SurveySentinel is a next-generation survey intelligence platform designed specifically for DJI Enterprise aircraft.
 
-Rather than replacing existing photogrammetry software, SurveySentinel enhances the entire survey workflow by intelligently analysing image coverage, identifying missing data, optimising flight missions and improving reconstruction quality.
+Rather than replacing existing photogrammetry software, SurveySentinel enhances professional aerial survey workflows by helping operators capture more complete, consistent and reliable datasets.
 
 Our goal is to produce more complete, more accurate and more reliable survey datasets while reducing pilot workload and repeat site visits.
 
@@ -35,27 +35,13 @@ The platform combines artificial intelligence, computer vision and DJI Enterpris
 
 ---
 
-# Vision
+# Why SurveySentinel
 
-Modern drone surveys frequently suffer from incomplete reconstruction caused by:
+Professional drone surveys are increasingly relied upon for engineering, construction, inspection and asset management.
 
-- Roof overhangs
-- Occluded building elevations
-- Trees and vegetation
-- Power lines
-- Complex roof geometry
-- Reflective surfaces
-- Poor image overlap
-- Hidden structures
-- Difficult lighting conditions
+However, conventional waypoint missions cannot always account for complex structures, occlusions or changing site conditions.
 
-SurveySentinel continuously evaluates survey completeness during flight and assists the pilot by identifying where additional imagery will improve reconstruction quality.
-
-Instead of simply executing a mission...
-
-**SurveySentinel understands the survey.**
-
----
+SurveySentinel is being developed to assist operators in capturing complete, high-quality survey datasets with greater confidence and fewer return visits.
 
 # Key Features
 
@@ -72,13 +58,7 @@ Instead of simply executing a mission...
 
 ## AI-Assisted Surveying
 
-- Computer vision
-- Scene understanding
-- Object detection
-- Surface classification
-- Geometry analysis
-- Semantic segmentation
-- Feature extraction
+SurveySentinel applies advanced artificial intelligence techniques to support professional aerial surveying and improve survey quality throughout the capture workflow.
 
 ---
 
@@ -94,7 +74,6 @@ Current development focuses on:
 - DJI Manifold 3
 - DJI Mobile SDK V5
 - DJI Payload SDK
-- Waypoint Mission Engine
 
 Future aircraft support is planned.
 
@@ -151,50 +130,21 @@ The SurveySentinel project is organised into multiple repositories.
 | Repository | Purpose |
 |------------|---------|
 | **.github** | Organisation profile, community health files and shared templates |
-| **SurveySentinel-Architecture** | System architecture, technical specifications and ADRs |
+| **SurveySentinel-Documentation** | Product documentation |
+| **SurveySentinel-Examples** | Example projects and datasets |
 | **SurveySentinel-Legal** | Commercial legal framework and licensing documentation |
 
 Additional repositories will be introduced as development progresses.
 
 ---
 
-# Current Development
+# Current Focus
 
-## Completed
-
-- ✅ Project identity
-- ✅ Branding
-- ✅ GitHub organisation
-- ✅ Domain registration
-- ✅ Repository structure
-- ✅ Legal framework planning
-- ✅ Architecture planning
-
----
-
-## In Progress
-
-- 🚧 System Architecture Specification
-- 🚧 Requirements Specification
-- 🚧 Architecture Decision Records (ADRs)
-- 🚧 Development Standards Manual
-- 🚧 Mobile application architecture
-- 🚧 AI processing pipeline
-- 🚧 DJI SDK integration design
-
----
-
-## Planned
-
-- Android application
-- Mission planning engine
-- AI-assisted flight optimisation
-- Automatic image recapture
-- Coverage analysis
-- Edge processing
-- Cloud synchronisation
-- Enterprise licensing
-- Digital twin workflows
+- DJI Enterprise integration
+- Mobile application development
+- Survey workflow optimisation
+- Documentation
+- Testing
 
 ---
 
@@ -218,16 +168,9 @@ SurveySentinel is being developed around several core principles:
 
 The project includes professional documentation covering:
 
-- System Architecture
-- Requirements Specification
-- Development Standards
-- Architecture Decision Records
-- Licensing
-- Terms of Service
-- Privacy Policy
-- Intellectual Property
-- Export Control
-- Commercial Licensing
+Product documentation is maintained within the SurveySentinel-Documentation repository.
+
+Legal and licensing information is maintained within SurveySentinel-Legal.
 
 Additional technical documentation will be published as development progresses.
 
@@ -282,8 +225,5 @@ Commercial licensing information will be published prior to the first public rel
 
 </div>
 
-### *Intelligent aerial surveying for the next generation of digital infrastructure.*
-
-**© SurveySentinel. All Rights Reserved.**
 
 </div>
