@@ -37,9 +37,13 @@ SurveySentinel combines intelligent software with DJI Enterprise platforms to he
 
 ## Explore SurveySentinel
 
-- 📖 **Documentation** – Product guides and reference material
-- 🧪 **Examples** – Sample datasets and demonstration workflows
-- ⚖️ **Legal** – Licensing, governance and intellectual property
+## Explore SurveySentinel
+
+- 📖 **[Documentation](https://github.com/SurveySentinel/SurveySentinel-Documentation)** – Product guides and reference material
+
+- 🧪 **[Examples](https://github.com/SurveySentinel/SurveySentinel-Examples)** – Sample datasets and workflows
+
+- ⚖️ **[Legal](https://github.com/SurveySentinel/SurveySentinel-Legal)** – Licensing, governance and intellectual property
 
 # Why SurveySentinel
 
@@ -182,16 +186,14 @@ Additional documentation will be published as SurveySentinel development progres
 
 # Roadmap
 
-Current focus areas include:
+Currently supporting:
 
-- DJI Enterprise integration
-- AI-assisted image analysis
-- Intelligent mission optimisation
-- Photogrammetry enhancement
-- Professional survey workflows
-- Commercial licensing
+- DJI Matrice 4 Enterprise
+- DJI Matrice 4 Thermal
+- DJI RTK 3
+- DJI Manifold 3
 
-Future releases will expand support for additional aircraft, sensors and enterprise integrations.
+Support for additional DJI Enterprise platforms will be introduced over time.
 
 ---
 
