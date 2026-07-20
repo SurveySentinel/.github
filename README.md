@@ -43,10 +43,10 @@ The organisation profile displayed on the GitHub homepage is generated from:
 ## Related Repositories
 
 | Repository | Purpose |
-|------------|---------|
-| SurveySentinel-Documentation | Public product documentation |
-| SurveySentinel-Examples | Example projects and datasets |
-| SurveySentinel-Legal | Licensing and legal documentation |
+|---|---|
+| [SurveySentinel-Documentation](https://github.com/SurveySentinel/SurveySentinel-Documentation) | Public product documentation |
+| [SurveySentinel-Examples](https://github.com/SurveySentinel/SurveySentinel-Examples) | Example projects and datasets |
+| [SurveySentinel-Legal](https://github.com/SurveySentinel/SurveySentinel-Legal) | Licensing and legal documentation |
 
 ## Licensing
 
