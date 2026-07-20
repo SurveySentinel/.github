@@ -133,31 +133,13 @@ SurveySentinel is intended for:
 # Project Architecture
 
 ```text
-                       DJI Aircraft
-                            │
-                            │
-                 DJI Mobile SDK (MSDK)
-                            │
-                            ▼
-                  SurveySentinel Mobile App
-                            │
-        ┌───────────────────┼───────────────────┐
-        │                   │                   │
-        ▼                   ▼                   ▼
- Mission Engine      AI Analysis Engine   Camera Manager
-        │                   │                   │
-        └──────────────┬────┴──────────────┬────┘
-                       ▼                   ▼
-             Coverage Analysis     Quality Assessment
-                       │
-                       ▼
-             Mission Optimisation Engine
-                       │
-                       ▼
-             Intelligent Image Capture
-                       │
-                       ▼
-           Photogrammetry Processing Export
+DJI Enterprise Aircraft
+        ↓
+SurveySentinel
+        ↓
+Survey Quality Intelligence
+        ↓
+Improved Capture and Export
 ```
 
 ---
@@ -213,35 +195,6 @@ Additional repositories will be introduced as development progresses.
 - Cloud synchronisation
 - Enterprise licensing
 - Digital twin workflows
-
----
-
-# Technology Stack
-
-## Mobile
-
-- Kotlin
-- Android
-- DJI Mobile SDK V5
-
-## Artificial Intelligence
-
-- OpenCV
-- ONNX Runtime
-- TensorFlow Lite
-
-## Backend
-
-- Java
-- Python
-- REST APIs
-
-## Drone Integration
-
-- DJI Mobile SDK
-- DJI Payload SDK
-- RTK Positioning
-- Waypoint Missions
 
 ---
 
@@ -322,6 +275,12 @@ Commercial licensing information will be published prior to the first public rel
 <div align="center">
 
 ## SurveySentinel
+
+### Intelligent aerial surveying for the next generation of digital infrastructure.
+
+**Copyright © 2026 SurveySentinel. All Rights Reserved.**
+
+</div>
 
 ### *Intelligent aerial surveying for the next generation of digital infrastructure.*
 
