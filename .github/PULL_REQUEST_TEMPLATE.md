@@ -7,10 +7,10 @@ Please describe the purpose of this pull request.
 ## Type of Change
 
 - [ ] Documentation
-- [ ] Bug Fix
+- [ ] Bug fix
 - [ ] Feature
 - [ ] Refactoring
-- [ ] Build System
+- [ ] Build system or tooling
 - [ ] Other
 
 ---
@@ -35,7 +35,8 @@ Describe any testing completed.
 
 ## Checklist
 
-- [ ] Documentation updated
-- [ ] Formatting checked
-- [ ] No confidential information included
-- [ ] Ready for review
+- [ ] I have reviewed the applicable contribution guidance.
+- [ ] Documentation has been updated where necessary.
+- [ ] Formatting and links have been checked.
+- [ ] No confidential, proprietary or personal information has been included.
+- [ ] The change is ready for review.
