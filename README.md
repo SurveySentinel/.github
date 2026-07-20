@@ -16,13 +16,29 @@ The organisation profile displayed on the GitHub homepage is generated from:
 
 ## Repository Contents
 
-- Organisation profile
-- Shared branding assets
-- Community health files
-- Issue templates
-- Pull request templates
-- Security policy
-- Contribution guidance
+```text
+.github
+│
+├── .github
+│   ├── ISSUE_TEMPLATE
+│   │   ├── bug_report.md
+│   │   ├── documentation.md
+│   │   ├── feature_request.md
+│   │   └── config.yml
+│   └── PULL_REQUEST_TEMPLATE.md
+│
+├── profile
+│   ├── README.md
+│   └── assets
+│
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── NOTICE
+├── README.md
+├── SECURITY.md
+└── SUPPORT.md
+```
 
 ## Related Repositories
 
